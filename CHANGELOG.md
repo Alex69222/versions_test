@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.3 (2025-01-17)
+
+
+### Features
+
+* add second log ([7cbaeff](https://github.com/Alex69222/versions_test/commit/7cbaeffa59f4069cd48f38e32d7535003ef9556b))
+
 ### 0.0.2 (2025-01-17)
 
 ### 0.0.1 (2025-01-17)
