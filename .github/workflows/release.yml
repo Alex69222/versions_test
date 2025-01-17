@@ -3,7 +3,11 @@ name: Release
 on:
   push:
     branches:
-      - master # Убедитесь, что ваша основная ветка называется 'main', иначе используйте 'master'
+      - master
+
+  pull_request:
+    branches:
+      - master
 
 jobs:
   release:
