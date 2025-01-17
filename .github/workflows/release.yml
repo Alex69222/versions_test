@@ -29,6 +29,9 @@ jobs:
 
       - name: Push changes and tags
         run: |
+          git config --list
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions.github.com"
           git push --follow-tags
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
