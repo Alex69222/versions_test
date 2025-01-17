@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.7 (2025-01-17)
+
+
+### Bug Fixes
+
+* back to  pull_requet ([4dcdcf7](https://github.com/Alex69222/versions_test/commit/4dcdcf7d2dec7e83c3ab89794bbac64b1da43b05))
+
 ### 0.0.6 (2025-01-17)
 
 ### 0.0.5 (2025-01-17)
