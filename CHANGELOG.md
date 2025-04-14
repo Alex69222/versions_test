@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12](https://github.com/Alex69222/versions_test/compare/v0.0.11...v0.0.12) (2025-04-14)
+
+
+### Bug Fixes
+
+* start action only on merge to master branch ([bf2ccbe](https://github.com/Alex69222/versions_test/commit/bf2ccbe411ee01ed7489287797d2d6b67333a09a))
+* start action only on push to master branch ([d6a0eb9](https://github.com/Alex69222/versions_test/commit/d6a0eb90d335f9146b8decb981769b01057b2dfc))
+
 ### [0.0.11](https://github.com/Alex69222/versions_test/compare/v0.0.10...v0.0.11) (2025-04-14)
 
 
