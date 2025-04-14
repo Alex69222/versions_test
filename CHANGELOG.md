@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/Alex69222/versions_test/compare/v0.0.9...v0.0.10) (2025-04-14)
+
+
+### Bug Fixes
+
+* change github actions workflow ([94953bf](https://github.com/Alex69222/versions_test/commit/94953bf235730407158dbe4ca830434853b9da56))
+
 ### 0.0.9 (2025-04-14)
 
 ### 0.0.8 (2025-04-11)
