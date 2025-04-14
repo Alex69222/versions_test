@@ -2,7 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+
 ## [1.0.0](https://github.com/Alex69222/versions_test/compare/v0.0.4...v1.0.0) (2025-04-14)
+
 
 
 ### Features
@@ -19,6 +21,7 @@ All notable changes to this project will be documented in this file. See [standa
 * change github actions workflow ([94953bf](https://github.com/Alex69222/versions_test/commit/94953bf235730407158dbe4ca830434853b9da56))
 * start action only on merge to master branch ([bf2ccbe](https://github.com/Alex69222/versions_test/commit/bf2ccbe411ee01ed7489287797d2d6b67333a09a))
 * start action only on push to master branch ([d6a0eb9](https://github.com/Alex69222/versions_test/commit/d6a0eb90d335f9146b8decb981769b01057b2dfc))
+
 
 ### 0.0.4 (2025-01-17)
 
