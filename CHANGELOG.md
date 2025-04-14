@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/Alex69222/versions_test/compare/v1.2.0...v1.2.1) (2025-04-14)
+
+
+### Bug Fixes
+
+* change log9 to log9.1 ([d04b851](https://github.com/Alex69222/versions_test/commit/d04b851e8eaed22a3970823b21e0280b788dc4e7))
+
 ## [1.2.0](https://github.com/Alex69222/versions_test/compare/v1.1.0...v1.2.0) (2025-04-14)
 
 
