@@ -2,42 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.0.12](https://github.com/Alex69222/versions_test/compare/v0.0.11...v0.0.12) (2025-04-14)
 
+## [1.0.0](https://github.com/Alex69222/versions_test/compare/v0.0.4...v1.0.0) (2025-04-14)
 
-### Bug Fixes
-
-* start action only on merge to master branch ([bf2ccbe](https://github.com/Alex69222/versions_test/commit/bf2ccbe411ee01ed7489287797d2d6b67333a09a))
-* start action only on push to master branch ([d6a0eb9](https://github.com/Alex69222/versions_test/commit/d6a0eb90d335f9146b8decb981769b01057b2dfc))
-
-### [0.0.11](https://github.com/Alex69222/versions_test/compare/v0.0.10...v0.0.11) (2025-04-14)
 
 
 ### Features
 
+* add fourth log ([2b2a565](https://github.com/Alex69222/versions_test/commit/2b2a56519a9af7fce03ed35fa9d71ca43456a7b3))
+* add log5 ([3ead852](https://github.com/Alex69222/versions_test/commit/3ead85273b7f320a4a234382a792fabe107fcada))
+* add log6 ([eacc7c4](https://github.com/Alex69222/versions_test/commit/eacc7c42a9db03647d65e765821bf0cb92e2e751))
 * add log7 ([2c30cb2](https://github.com/Alex69222/versions_test/commit/2c30cb205ac753ef2767728885bba8efdf4a38cc))
 
-### [0.0.10](https://github.com/Alex69222/versions_test/compare/v0.0.9...v0.0.10) (2025-04-14)
-
 
 ### Bug Fixes
 
+* add trigger action on pull_request ([7b2e8d9](https://github.com/Alex69222/versions_test/commit/7b2e8d92127632a868e9cc982a10cae5958395d2))
 * change github actions workflow ([94953bf](https://github.com/Alex69222/versions_test/commit/94953bf235730407158dbe4ca830434853b9da56))
+* start action only on merge to master branch ([bf2ccbe](https://github.com/Alex69222/versions_test/commit/bf2ccbe411ee01ed7489287797d2d6b67333a09a))
+* start action only on push to master branch ([d6a0eb9](https://github.com/Alex69222/versions_test/commit/d6a0eb90d335f9146b8decb981769b01057b2dfc))
 
-### 0.0.9 (2025-04-14)
-
-### 0.0.8 (2025-04-11)
-
-### 0.0.7 (2025-01-17)
-
-
-### Bug Fixes
-
-* back to  pull_requet ([4dcdcf7](https://github.com/Alex69222/versions_test/commit/4dcdcf7d2dec7e83c3ab89794bbac64b1da43b05))
-
-### 0.0.6 (2025-01-17)
-
-### 0.0.5 (2025-01-17)
 
 ### 0.0.4 (2025-01-17)
 
